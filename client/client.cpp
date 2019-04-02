@@ -7,6 +7,7 @@
 
 TCPClient tcp;
 
+
 void sig_exit(int s)
 {
 	tcp.exit();
