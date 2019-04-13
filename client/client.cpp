@@ -6,7 +6,7 @@
 #include "common.h"
 
 TCPClient tcp;
-AAAAA
+DDDDD
 void sig_exit(int s)
 {
 	tcp.exit();
