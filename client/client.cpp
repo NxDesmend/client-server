@@ -7,6 +7,7 @@
 
 TCPClient tcp;
 DDDDD
+CCCCC
 void sig_exit(int s)
 {
 	tcp.exit();
